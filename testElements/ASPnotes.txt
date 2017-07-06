@@ -1,0 +1,7 @@
+Declaring variables:
+ DIM strName, intNumber, decNumber
+
+IF strName = "N/A" THEN
+  strName = "Not Available"
+END IF
+
