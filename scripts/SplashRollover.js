@@ -9,13 +9,13 @@ if (document.images) {
     Pop = new Image
 
     Front.src = "images/home/front.jpg"
-    Eyelet.src = "images/home/eyelets.jpg"
+    Eyelet.src = "images/home/EYELETS.jpg"
     Fastener.src = "images/home/fasteners.jpg"
-    Rope.src = "images/home/rope.jpg"
-    Wire.src = "images/home/wire.jpg"
-    Security.src = "images/home/security.jpg"
-    Garage.src = "images/home/garage.jpg"
-    Pop.src = "images/home/pop.jpg"
+    Rope.src = "images/home/ROPE.jpg"
+    Wire.src = "images/home/WIRE.jpg"
+    Security.src = "images/home/SECURITY.jpg"
+    Garage.src = "images/home/GARAGE.jpg"
+    Pop.src = "images/home/POP.jpg"
 }
 else {
     Front = ""
